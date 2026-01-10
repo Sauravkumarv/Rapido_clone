@@ -1,4 +1,4 @@
-#  Rapido Clone – Core Java Console Application
+#  Rapido Clone –: Core Java Console Application
 
 ## 📌 Project Overview
 
