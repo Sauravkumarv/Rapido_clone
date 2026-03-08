@@ -14,7 +14,7 @@ The main goal of this project is to demonstrate a **strong understanding of Core
 
 ---
 
-## ✨ Features
+##  ✨  Features
 
 - View available rides (Bike / Auto / Cab)
 - Select ride using number input
